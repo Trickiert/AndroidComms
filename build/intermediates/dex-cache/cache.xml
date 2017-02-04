@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\d6541e2b9cf9c26f63134fc2c15264d8f13115c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_408d35e8a0719d0903bfc2d0d552bc00031e53e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\24d946d9527cd699097d2bb2f3b1d7ba6680c800\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c752c0410056e4d02d61791a0ed2c59c9a4cc500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53cb4a17c5d4c95f850e380ef5abdec49b36d8d5">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7867bdc104384746bcfacb0675db3acb5aa9eefc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\fde3a072532ee010b4a2e12670da52724dd87591\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e2e145efecaf9d64ba9cd888cf7c30359568fba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\53afa038816554bb8fe0569ded6ec9c3978cd999\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6d9192ffe58645329bc9bd02027a2c6c3cbc4b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\24d946d9527cd699097d2bb2f3b1d7ba6680c800\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd5009261331f58a243c2171101c1e8230843a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\1563f9c0f8c02f9b4d9b53f11b681b51e3acaca8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b65955deb58db4512ca1d4edd1602fbcc15616d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\794e2ccfabc14af9dc7d1b27c162cf87c843c6c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b66d7f5c2c6982ed368282e6eb4d19b7131dccde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\53afa038816554bb8fe0569ded6ec9c3978cd999\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c100bd8df691c13dde2ad29ecea9a468613c47c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\0784e3d5016a926dd8cc534a74c5884d98bd064a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c10a4aeb30b78ab0280047848cc3105d92508c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\794e2ccfabc14af9dc7d1b27c162cf87c843c6c3\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3c556edd7548346fb774e8c81053d47e06de81fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\f30967f1924a1dc4d74d2977d420b5404fb5831d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6dbece743408658f5e0c17d3d375dd1b1910821e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3da2d968ecdb0c7947426125ebdfc7246188212">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_75670cbf6674ce22b15f769cbed8514a6f8351c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\5f7e6b920f4ecf21ff6da0f2df9ad0e8e803d613\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a044d9d9804abc306c369cf336a6bf22c2070127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\Documents\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_530c2a7396c5089f9452dc8c1d099ae1539996ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\5f7e6b920f4ecf21ff6da0f2df9ad0e8e803d613\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9f94e018a49914eb46f6a61e503011fe0326106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cameron\.android\build-cache\fde3a072532ee010b4a2e12670da52724dd87591\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\University\FINAL YEAR PROJECT\Project FIles\AndroidComms\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9eae7f6f16e8f340332f59f6b10821e5ab08b1ce\classes.dex" />
+    </item>
+
+</items>

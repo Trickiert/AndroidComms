@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Cameron\\Documents\\AndroidSDK\\cmake\\3.6.3155560\\bin\\cmake.exe --build \"D:\\University\\FINAL YEAR PROJECT\\Project FIles\\AndroidComms\\app\\.externalNativeBuild\\cmake\\debug\\armeabi\" --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\Cameron\\Documents\\AndroidSDK\\cmake\\3.6.3155560\\bin\\cmake.exe --build \"D:\\University\\FINAL YEAR PROJECT\\Project FIles\\AndroidComms\\app\\.externalNativeBuild\\cmake\\debug\\armeabi\" --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv5te-none-linux-androideabi -gcc-toolchain C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/platforms/android-22/arch-arm  -Dnative_lib_EXPORTS -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so",
+			"toolchain" : "2971549375"
+		}
+	},
+	"toolchains" : 
+	{
+		"2971549375" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
