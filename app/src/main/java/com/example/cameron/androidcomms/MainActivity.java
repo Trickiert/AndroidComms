@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button gBtn; //Gallery Button
     private Button sBtn; //Screenshot Button
     private Button exBtn; //Exit app Button
+    private Button dBtn; //Debug Button
 
     // Used to load the 'native-lib' library on application startup.
     // static     {
@@ -26,14 +27,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         gBtn =  (Button)findViewById(R.id.ViewScrn); //Takes user to image gallery
         exBtn = (Button)findViewById(R.id.Exit_butt); //exit app
         sBtn =  (Button)findViewById(R.id.Scrn_butt); //Takes user to controls
+        dBtn = (Button)findViewById(R.id.Testing); //A testing button for developer use
 
         //Listener for button actions, allows button functionality
         exBtn.setOnClickListener(this);
         gBtn.setOnClickListener(this);
         sBtn.setOnClickListener(this);
+        dBtn.setOnClickListener(this);
     }
 
-    //Button Functionality
+    //Button Functionality + Use Of Intents
     public void onClick (View view)
     {
         switch (view.getId())
@@ -56,6 +59,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 MainActivity.this.startActivity(myIntent); //An intent to the next activity.
             }
             break;
+
         }
 
     }

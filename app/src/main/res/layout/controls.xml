@@ -22,4 +22,14 @@
         android:layout_alignBottom="@+id/scrnshot"
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="18dp" />
+
+    <EditText
+        android:id="@+id/IPField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Current IP:" />
 </RelativeLayout>
