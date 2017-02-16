@@ -4,3 +4,5 @@
 2	382	0	build.ninja	c0e53980b9689500
 3	350	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	4cdaadec36a891fa
 350	704	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	17719d28ba07a08b
+3	260	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	4cdaadec36a891fa
+260	633	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	17719d28ba07a08b

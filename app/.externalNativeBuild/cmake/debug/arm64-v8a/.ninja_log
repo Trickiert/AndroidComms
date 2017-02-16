@@ -4,3 +4,5 @@
 2	373	0	build.ninja	9f600445fc2c9884
 3	702	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	bfb3de2128ae6263
 702	1229	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	816a80bb72bdb08b
+10	585	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	bfb3de2128ae6263
+585	960	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	816a80bb72bdb08b

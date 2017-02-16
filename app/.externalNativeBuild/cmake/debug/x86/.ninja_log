@@ -4,3 +4,5 @@
 1	402	0	build.ninja	1428031bb552d34e
 3	599	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	9d69b73b74ac74b1
 599	1396	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	4daadbdc28197673
+35	789	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	9d69b73b74ac74b1
+789	1242	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	4daadbdc28197673

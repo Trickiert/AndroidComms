@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -7,10 +8,10 @@
         android:id="@+id/scrnshot"
         android:layout_width="146dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="199dp"
+        android:layout_marginTop="164dp"
         android:text="Request \n Screenshot"
-        android:layout_marginStart="22dp"
-        android:layout_alignParentTop="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:layout_below="@+id/connect_ip"
         android:layout_alignParentStart="true" />
 
     <Button
@@ -18,18 +19,53 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Previous \n Connections"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
         android:layout_alignBaseline="@+id/scrnshot"
         android:layout_alignBottom="@+id/scrnshot"
-        android:layout_alignParentEnd="true"
-        android:layout_marginEnd="18dp" />
+        android:layout_alignParentEnd="true" />
 
     <EditText
         android:id="@+id/IPField"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
+        android:digits="0123456789."
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Current IP:" />
+        android:text="Enter An IP Address"
+        android:textAppearance="@android:style/TextAppearance.Holo.Medium"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="20"
+        android:id="@+id/txtContent"
+        android:scrollIndicators="bottom|right"
+        android:layout_toStartOf="@+id/s_connections"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/connect_ip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:elevation="0dp"
+        android:text="Connect To IP"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:layout_below="@+id/IPField"
+        android:layout_alignEnd="@+id/scrnshot" />
+
+    <Button
+        android:id="@+id/Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save IP"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:layout_alignBaseline="@+id/connect_ip"
+        android:layout_alignBottom="@+id/connect_ip"
+        android:layout_alignEnd="@+id/IPField"
+        android:layout_marginEnd="11dp" />
 </RelativeLayout>
