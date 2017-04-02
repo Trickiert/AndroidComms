@@ -1,12 +1,9 @@
 
 {
-	"buildFiles" : 
-	[
-		"D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/CMakeLists.txt"
-	],
+	"buildFiles" : [ "C:/Users/Cameron/Desktop/AndroidComms-master/app/CMakeLists.txt" ],
 	"cleanCommands" : 
 	[
-		"C:\\Users\\Cameron\\Documents\\AndroidSDK\\cmake\\3.6.3155560\\bin\\cmake.exe --build \"D:\\University\\FINAL YEAR PROJECT\\Project FIles\\AndroidComms\\app\\.externalNativeBuild\\cmake\\release\\x86_64\" --target clean"
+		"C:\\Users\\Cameron\\Documents\\AndroidSDK\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\Cameron\\Desktop\\AndroidComms-master\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -15,18 +12,18 @@
 		{
 			"abi" : "x86_64",
 			"artifactName" : "native-lib",
-			"buildCommand" : "C:\\Users\\Cameron\\Documents\\AndroidSDK\\cmake\\3.6.3155560\\bin\\cmake.exe --build \"D:\\University\\FINAL YEAR PROJECT\\Project FIles\\AndroidComms\\app\\.externalNativeBuild\\cmake\\release\\x86_64\" --target native-lib",
+			"buildCommand" : "C:\\Users\\Cameron\\Documents\\AndroidSDK\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\Cameron\\Desktop\\AndroidComms-master\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target native-lib",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  -target x86_64-none-linux-android -gcc-toolchain C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/platforms/android-22/arch-x86_64  -Dnative_lib_EXPORTS -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\include -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/src/main/cpp/native-lib.cpp",
-					"workingDirectory" : "D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/.externalNativeBuild/cmake/release/x86_64"
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Cameron/Documents/AndroidSDK/ndk-bundle/platforms/android-22/arch-x86_64  -Dnative_lib_EXPORTS -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\include -isystem C:\\Users\\Cameron\\Documents\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/Cameron/Desktop/AndroidComms-master/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Users/Cameron/Desktop/AndroidComms-master/app/.externalNativeBuild/cmake/release/x86_64"
 				}
 			],
-			"output" : "D:/University/FINAL YEAR PROJECT/Project FIles/AndroidComms/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so",
+			"output" : "C:/Users/Cameron/Desktop/AndroidComms-master/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so",
 			"toolchain" : "2971549375"
 		}
 	},

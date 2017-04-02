@@ -2,7 +2,26 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.cameron.androidcomms">
 
+    <uses-permission
+        android:name="android.permission.INTERNET" > //Internet Access
+    </uses-permission>
+
+    <uses-permission
+        android:name="android.permission.ACCESS_NETWORK_STATE" > //Determine if the network is active or not.
+    </uses-permission>
+
+    <uses-permission
+        android:required="true"
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE" > //Write a file to the phone memory.
+    </uses-permission>
+
+    <uses-permission
+        android:required="true"
+        android:name="android.permission.READ_EXTERNAL_STORAGE" > //Read Files From phone Menu.
+    </uses-permission>
+
     <application
+
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -14,23 +33,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".Scrn_Controls">
+
+
         </activity>
 
-        <uses-permission
-            android:required="true"
-            android:name="android.permission.ACCESS_WIFI_STATE"/> //Wifi Access
-        <uses-permission
-            android:required="true"
-            android:name="android.permission.CHANGE_WIFI_STATE"/> //Change Wifi state (On/Off)
-
-
-        <uses-permission android:name="android.permission.INTERNET" > //Internet Access
-        </uses-permission>
-
-        <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" > //Determine if the network is active or not.
-        </uses-permission>
 
     </application>
 

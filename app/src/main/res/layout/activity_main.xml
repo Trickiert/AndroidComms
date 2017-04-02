@@ -11,29 +11,53 @@
     tools:context="com.example.cameron.androidcomms.MainActivity">
 
     <Button
-        android:text="Screenshot \n Gallery"
+        android:id="@+id/ViewScrn"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/ViewScrn"
-        android:onClick="LaunchGallery"
         android:layout_alignBaseline="@+id/Scrn_butt"
         android:layout_alignBottom="@+id/Scrn_butt"
-        android:layout_toEndOf="@+id/Exit_butt" />
+        android:layout_toEndOf="@+id/Exit_butt"
+        android:background="?android:attr/colorPrimary"
+        android:onClick="LaunchGallery"
+        android:text="Screenshot \n Gallery" />
 
     <Button
-        android:text="Screenshot \n Controls"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/Scrn_butt"
-        android:layout_marginTop="172dp"
-        android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/Exit_butt" />
-
-    <Button
-        android:text="Exit"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="172dp"
+        android:layout_toStartOf="@+id/Exit_butt"
+        android:background="?android:attr/colorPrimary"
+        android:text="Screenshot \n Controls" />
+
+    <Button
         android:id="@+id/Exit_butt"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/darker_gray"
+        android:text="Exit App" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome!"
+        android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
+
+
+    <!--    <Button
+            android:id="@+id/Testing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:text="Debug_Menu" />-->
 </RelativeLayout>
